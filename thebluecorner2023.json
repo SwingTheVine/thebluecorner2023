@@ -8,6 +8,14 @@
       ],
       "x": 1942,
       "y": 1442
+    },
+    {
+      "name": "r/TheBlueCorner",
+      "sources": [
+        "https://i.imgur.com/ftUEBuH.png"
+      ],
+      "x": 1899,
+      "y": 1899
     }
   ],
   "whitelist": [
