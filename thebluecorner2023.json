@@ -18,14 +18,6 @@
       "y": 1488
     },
     {
-      "name": "TheBlueCorner Moto",
-      "sources": [
-        "https://i.imgur.com/aNo9lTB.png"
-      ],
-      "x": 1929,
-      "y": 2005
-    },
-    {
       "name": "Do Not Expand",
       "sources": [
         "https://i.imgur.com/8ILyTeC.png"
@@ -42,6 +34,10 @@
     {
       "name": "r/AmericanFlagInPlace",
       "url": "https://afip.us/place/overlay"
+    },
+    {
+      "name": "TheBlueCorner Moto",
+      "url": "https://rentry.co/od37p/raw"
     }
   ],
   "blacklist": [
