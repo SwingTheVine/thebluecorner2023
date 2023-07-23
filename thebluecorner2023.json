@@ -2,20 +2,20 @@
   "contact": "discord.gg/b6VJP5EH8C @SwingTheVine",
   "templates": [
     {
-      "name": "r/TheBlueCorner",
-      "sources": [
-        "https://i.imgur.com/jACfFfh.png"
-      ],
-      "x": 1942,
-      "y": 1442
-    },
-    {
-      "name": "r/TheBlueCorner",
+      "name": "TheBlueCorner",
       "sources": [
         "https://i.imgur.com/ftUEBuH.png"
       ],
-      "x": 1899,
-      "y": 1899
+      "x": 1900,
+      "y": 1900
+    },
+    {
+      "name": "TheBlueCorner Moto",
+      "sources": [
+        "https://i.imgur.com/aNo9lTB.png"
+      ],
+      "x": 1929,
+      "y": 2005
     }
   ],
   "whitelist": [
