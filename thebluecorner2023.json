@@ -1,0 +1,21 @@
+{
+  "contact": "discord.gg/b6VJP5EH8C @SwingTheVine",
+  "templates": [
+    {
+      "name": "r/TheBlueCorner",
+      "sources": [
+        "https://i.imgur.com/NXznw21.png"
+      ],
+      "x": 1942,
+      "y": 1442
+    }
+  ],
+  "whitelist": [
+	{
+      "name": "April Knights",
+      "url": "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsjson.json"
+    }
+  ],
+  "blacklist": [
+  ]
+}
