@@ -10,6 +10,14 @@
       "y": 1898
     },
     {
+      "name": "TheMemorialBlueCorner",
+      "sources": [
+        "https://i.imgur.com/7CGZy7u.png"
+      ],
+      "x": 1488,
+      "y": 1488
+    },
+    {
       "name": "TheBlueCorner Moto",
       "sources": [
         "https://i.imgur.com/aNo9lTB.png"
@@ -20,7 +28,7 @@
   ],
   "whitelist": [
 	{
-      "name": "April Knights",
+      "name": "April Knights Art",
       "url": "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsjson.json"
     }
   ],
