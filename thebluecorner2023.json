@@ -38,6 +38,10 @@
 	{
       "name": "April Knights Art",
       "url": "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsjson.json"
+    },
+    {
+      "name": "r/AmericanFlagInPlace",
+      "url": "https://afip.us/place/overlay"
     }
   ],
   "blacklist": [
