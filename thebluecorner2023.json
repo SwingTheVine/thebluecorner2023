@@ -12,7 +12,7 @@
     {
       "name": "TheMemorialBlueCorner",
       "sources": [
-        "https://i.imgur.com/glBuiUh.png"
+        "https://i.imgur.com/7CGZy7u.png"
       ],
       "x": 1488,
       "y": 1488
@@ -24,6 +24,14 @@
       ],
       "x": 1929,
       "y": 2005
+    },
+    {
+      "name": "Do Not Expand",
+      "sources": [
+        "https://i.imgur.com/8ILyTeC.png"
+      ],
+      "x": 1873,
+      "y": 1922
     }
   ],
   "whitelist": [
