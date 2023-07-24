@@ -4,14 +4,6 @@
     {
       "name": "TheBlueCorner",
       "sources": [
-        "https://i.imgur.com/Crj7UQ1.png"
-      ],
-      "x": 2399,
-      "y": 1898
-    },
-    {
-      "name": "TheBlueCorner",
-      "sources": [
         "https://i.imgur.com/4g9eexV.png"
       ],
       "x": 2899,
@@ -30,7 +22,7 @@
       "sources": [
         "https://i.imgur.com/8ILyTeC.png"
       ],
-      "x": 2373,
+      "x": 2873,
       "y": 2005
     }
   ],
