@@ -25,6 +25,14 @@
       "x": 2873,
       "y": 2005
     }
+    {
+         "name":"Foxhole r/place main art + Hurdy gurdy",
+         "sources":[
+            "https://cdn.discordapp.com/attachments/958307077934161920/1133309963876442142/image3.png"
+         ],
+         "x":1358,
+         "y":974
+      },
   ],
   "whitelist": [
 	{
@@ -42,10 +50,6 @@
     {
       "name": "discord.gg/cellbit",
       "url": "https://rentry.co/cellbit_backup/raw"
-    },
-    {
-      "name": "Gamechfo on discord",
-      "url": "https://pastebin.com/raw/icTkrAnz"
     }
   ],
   "blacklist": [
